@@ -1,7 +1,0 @@
-#!/bin/sh
-#
-#  Use this script to update the DarkIce web site
-#
-
-scp -r htdocs darkeye@darkice.sourceforge.net:/home/groups/darkice
-
